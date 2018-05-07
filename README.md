@@ -1,6 +1,10 @@
 # VIDGIQA
 Code of paper ``Visual Importance and Distortion Guided Deep Image Quality Assessment Framework"
 
+Please cite as:
+
+Jingwei GUAN, Shuai YI, Xingyu ZENG, Wai-Kuen CHAM and Xiaogang WANG. "Visual Importance and Distortion Guided Deep Image Quality Assessment Framework." IEEE Transactions on Multimedia.
+
 
 * Usage:
 -------- 
